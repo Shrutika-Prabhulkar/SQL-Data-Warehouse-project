@@ -4,7 +4,8 @@ Building a modern data warehouse with SQL Server, including ETL processes, data 
 Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 
-![image](https://github.com/user-attachments/assets/6bd9343a-b8ed-444e-8f7f-d31425ac6a43)
+![image](https://github.com/user-attachments/assets/f4b89f3a-09ec-40c7-8959-d3afbf9b4950)
+
 
 1. Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
