@@ -1,7 +1,7 @@
 # SQL-Data-Warehouse-project
 Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics.
 
-🏗️  __Data Architecture__
+🏗️ <ins> __Data Architecture__</ins>
 
 The data architecture for this project follows Medallion Architecture __Bronze, Silver, and Gold layers__:
 
@@ -14,7 +14,7 @@ The data architecture for this project follows Medallion Architecture __Bronze, 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-📖 __Project Overview__
+📖 <ins>__Project Overview__</ins>
 
 This project involves:
 
@@ -29,10 +29,12 @@ This project involves:
 - 4.__Analytics & Reporting__: Creating SQL-based reports and dashboards for actionable insights.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
- 🚀 __Project Requirements__
+ 🚀<ins> __Project Requirements__</ins>
  
-__Building the Data Warehouse (Data Engineering)__
-__Objective__
+<ins>__Building the Data Warehouse (Data Engineering)__</ins>
+
+<ins>__Objective__</ins>
+
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 __Specifications__
@@ -50,9 +52,9 @@ __Documentation__: Provide clear documentation of the data model to support both
 
 
 
-__BI: Analytics & Reporting (Data Analysis)__
+<ins>__BI: Analytics & Reporting (Data Analysis)__</ins>
 
-__Objective__
+<ins>__Objective__</ins>
 
 Develop SQL-based analytics to deliver detailed insights into:
 
