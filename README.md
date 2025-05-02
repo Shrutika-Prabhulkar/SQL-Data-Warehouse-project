@@ -1,55 +1,59 @@
 # SQL-Data-Warehouse-project
 Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics.
 
-🏗️  Data Architecture
+🏗️  __Data Architecture__
 
-The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
+The data architecture for this project follows Medallion Architecture __Bronze, Silver, and Gold layers__:
 
 ![image](https://github.com/user-attachments/assets/f4b89f3a-09ec-40c7-8959-d3afbf9b4950)
 
 
-1. Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
-2. Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
-3. Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
+1. __Bronze Layer__: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
+2. __Silver Layer__: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
+3. __Gold Layer__: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-📖 Project Overview
+📖 __Project Overview__
 
 This project involves:
 
-Data Architecture:
-
-- 1.Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
-
-- 2.ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
-
-- 3.Data Modeling: Developing fact and dimension tables optimized for analytical queries.
-
-- 4.Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
 
- 🚀 Project Requirements
+- 1.__Data Architecture__: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
+
+- 2.__ETL Pipelines__: Extracting, transforming, and loading data from source systems into the warehouse.
+
+- 3.__Data Modeling__: Developing fact and dimension tables optimized for analytical queries.
+
+- 4.__Analytics & Reporting__: Creating SQL-based reports and dashboards for actionable insights.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+ 🚀 __Project Requirements__
  
-Building the Data Warehouse (Data Engineering)
-Objective
+__Building the Data Warehouse (Data Engineering)__
+__Objective__
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
-Specifications
-Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
-Data Quality: Cleanse and resolve data quality issues prior to analysis.
-Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
-Scope: Focus on the latest dataset only; historization of data is not required.
-Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+__Specifications__
+__Data Sources__: Import data from two source systems (ERP and CRM) provided as CSV files.
+__Data Quality__: Cleanse and resolve data quality issues prior to analysis.
+__Integration__: Combine both sources into a single, user-friendly data model designed for analytical queries.
+__Scope__: Focus on the latest dataset only; historization of data is not required.
+__Documentation__: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 
 
-BI: Analytics & Reporting (Data Analysis)
+__BI: Analytics & Reporting (Data Analysis)__
 
-Objective
+__Objective__
+
 Develop SQL-based analytics to deliver detailed insights into:
 
-Customer Behavior
-Product Performance
-Sales Trends
+__Customer Behavior__
+
+__Product Performance__
+
+__Sales Trends__
 
   
