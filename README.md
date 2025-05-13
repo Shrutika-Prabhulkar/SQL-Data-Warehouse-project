@@ -60,8 +60,19 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 __Customer Behavior__
 
+
+
 __Product Performance__
 
 __Sales Trends__
+
+--------------------------------------------------------------------------------
+<ins>__Project Management & Steps (Notion)__ : </ins>
+
+Detailed project phases, tasks.
+
+https://lime-plume-41e.notion.site/Data-Warehouse-project-1e2e22fecbcc809f8ebbf947440703a5
+
+
 
   
